@@ -10,4 +10,4 @@ Task 2
 Predictive Analytics
 Explore correlations between customer attributes, build a regression and a prediction model based on the findings.
 
-This Project is for Educational Purpose only.
+This project is for educational purpose only.
